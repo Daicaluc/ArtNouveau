@@ -6,7 +6,7 @@ Un viaje visual por el modernismo catalán, combinando historia del arte y desar
 
 <img src="./FotosMuestra/Gaudi.png" width="200px" alt="Antoni Gaudí">
 
-Puedes visitar la web en funcionamiento aquí: **[🔗 Ver Proyecto Online](https://daicaluc.github.io/artnouveau/)**
+Puedes visitar la web en funcionamiento aquí: **[🔗 Ver Proyecto Online](https://daicaluc.github.io/ArtNouveau/)**
 
 ---
 
