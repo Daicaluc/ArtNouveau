@@ -4,7 +4,7 @@ Sitio web tributo al Art Nouveau y Gaudí, caracterizado por una estética vibra
 # Art Nouveau
 Un viaje visual por el modernismo catalán, combinando historia del arte y desarrollo web creativo.
 
-![Portada del Proyecto](./FotosMuestra/Gaudi.png)
+<img src="./FotosMuestra/Gaudi.png" width="200px" alt="Antoni Gaudí">
 
 Puedes visitar la web en funcionamiento aquí: **[🔗 Ver Proyecto Online](https://daicaluc.github.io/artnouveau/)**
 
@@ -26,10 +26,10 @@ Aunque la asignatura solo requería HTML y CSS, decidí aprender e incorporar **
 
 Para aumentar la inmersión artística, desarrollé un script que gestiona el comportamiento del cursor y el feedback visual de las imágenes mediante la manipulación de clases del DOM.
 
-La lógica se basa en la escucha de eventos nativos del ratón (`addEventListener`) para alternar estados CSS:
+La lógica se basa en la escucha de eventos nativos del ratón (addEventListener) para alternar estados CSS:
 
-* **Estado Global (`html`):** Detecta los eventos `mousedown` y `mouseup` para asignar la clase `.moving`. Esto permite cambiar el estilo del cursor globalmente cuando el usuario hace clic (efecto de "agarre" o interacción activa).
-* **Estados Locales (Imágenes):** Al interactuar con elementos específicos (como `#image1` o `#image2`), el script gestiona eventos de entrada y salida (`mouseover`, `mouseout`) para asignar la clase `.pass`, indicando al usuario que el elemento es interactivo.
+* **Estado Global html:** Detecta los eventos *mousedown* y *mouseup* para asignar la clase *.moving*. Esto permite cambiar el estilo del cursor globalmente cuando el usuario hace clic (efecto de "agarre" o interacción activa).
+* **Estados Locales (Imágenes):** Al interactuar con elementos específicos (como *#image1* o *#image2*), el script gestiona eventos de entrada y salida (*mouseover*, *mouseout*) para asignar la clase *.pass*, indicando al usuario que el elemento es interactivo.
 
 **Snippet de la lógica implementada:**
 ```javascript
@@ -66,7 +66,7 @@ Estos son los cursores utilizados y diseñados personalmente para implementar en
 
 | Antoni Gaudí | Sagrada Família |
 | :---: | :---: |
-| ![Captura 1](./FotosMuestra/Captura1.png) | ![Captura 2](./FotosMuestra/Catpura2.png) |
+| ![Captura 1](./FotosMuestra/Captura1.png) | ![Captura 2](./FotosMuestra/Captura2.png) |
 
 ---
 
